@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Manajemen Penyimpanan Laptop",
+  "description": "Aplikasi manajemen posisi unit laptop di dalam rak dan shelving dengan impor master data Excel dan pencarian cepat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
